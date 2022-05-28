@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+    <CUSTOMER>
+        <NAME>
+            <LAST_NAME>lavi</LAST_NAME>
+            <FIRST_NAME>howkeyes</FIRST_NAME>
+        </NAME>
+        <DATE>september 15, 2022</DATE>
+        <ORDERS>
+            <ITEM>
+                <PRODUCT>potato</PRODUCT>
+                <NUMBER>2</NUMBER>
+                <PRICE>$0.25</PRICE>
+            </ITEM>
+            <ITEM>
+                <PRODUCT>Apples</PRODUCT>
+                <NUMBER>4</NUMBER>
+                <PRICE>$3.98</PRICE>
+            </ITEM>
+        </ORDERS>
+    </CUSTOMER>
+    <CUSTOMER>
+        <NAME>
+            <LAST_NAME>hotdof</LAST_NAME>
+            <FIRST_NAME>sasha</FIRST_NAME>
+        </NAME>
+        <DATE>june 19, 2022</DATE>
+        <ORDERS>
+            <ITEM>
+                <PRODUCT>Cake</PRODUCT>
+                <NUMBER>10</NUMBER>
+                <PRICE>$15</PRICE>
+            </ITEM>
+            <ITEM>
+                <PRODUCT>banana</PRODUCT>
+                <NUMBER>14</NUMBER>
+                <PRICE>$19.50</PRICE>
+            </ITEM>
+        </ORDERS>
+    </CUSTOMER>
+</DOCUMENT>
